@@ -1,2 +1,1 @@
-while True :
-    print(True) 
+print("Python program")
